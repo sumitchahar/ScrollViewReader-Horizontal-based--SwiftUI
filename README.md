@@ -10,8 +10,8 @@ Above fig 1.0, just point to connection with row that is scrolling horizontal fl
 ![Documentation-ScrollView-SwiftUI 003](https://github.com/user-attachments/assets/975ebac8-9cd6-416d-873c-a485e617576d)
 ![Documentation-ScrollView-SwiftUI 004](https://github.com/user-attachments/assets/b6ef0f0f-d256-41ba-a4e2-580a297d025b)
 
-# Youtube url: https://www.youtube.com/watch?v=BrWPoFYT9HE
+# Youtube url: [https://www.youtube.com/watch?v=BrWPoFYT9HE](https://www.youtube.com/watch?v=A8dSZ6RrWXQ)
 
 # Linkedin Profile: https://www.linkedin.com/in/sumit-chahar-2956a513b/
 
-# Medium link: https://medium.com/@sumitchahar96
+# Medium link: https://medium.com/@sumitchahar96/implementation-of-scrollviewreader-with-proxy-scrolling-position-top-to-bottom-in-swiftui-37001e994f3c
